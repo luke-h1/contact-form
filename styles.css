@@ -102,9 +102,9 @@ ul {
   .wrapper > * {
     padding: 2rem;
   }
-  .company-info h3,
-  .company-info ul,
-  .company-info brand {
+  .contact-info h3,
+  .contact-info ul,
+  .contact-info brand {
     text-align: left;
   }
 }
